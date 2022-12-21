@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: demo
+
+azure:
+  clientid: 
+  clientsecret: 
+  tenantid: 
+  servicebus:
+    namespace: 
+    topic: 
+    subscription: 
